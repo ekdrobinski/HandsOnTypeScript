@@ -1,0 +1,11 @@
+{
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "core-js": "^3.30.1"
+  }
+}
